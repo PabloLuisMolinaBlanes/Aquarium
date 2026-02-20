@@ -18,5 +18,5 @@ This application has been developed in three distinct technologies:
 
 For more information on Bezier Curves, these resources are very good: 
 
-* The Beauty of Bézier Curves, by Freya Hoimér - https://https://www.youtube.com/watch?v=aVwxzDHniEw
+* The Beauty of Bézier Curves, by Freya Hoimér - https://www.youtube.com/watch?v=aVwxzDHniEw
 * Wikipedia article on the Bézier Curve - https://en.wikipedia.org/wiki/B%C3%A9zier_curve 
