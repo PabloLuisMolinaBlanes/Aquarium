@@ -12,7 +12,7 @@ This application has been developed in three distinct technologies:
 
 - Go
 - C++ with SFML (credit to https://github.com/SFML/cmake-sfml-project for their template)
-- JavaScript (not yet released as of now)
+- JavaScript
 
 # Miscellanea
 
